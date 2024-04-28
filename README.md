@@ -2,7 +2,7 @@
 
 This one is for demostrating the skill of using diferent language
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/tlgcy9vw6NQ))
+[Software Demo Video](https://youtu.be/tlgcy9vw6NQ)
 
 # Development Environment
 
