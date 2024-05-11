@@ -22,6 +22,6 @@
 
 # Future Work
 
-{I hope I can also add the price into groocery}
+{I hope I can also add the live price into grocery}
 
 - Price of item
