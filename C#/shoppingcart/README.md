@@ -6,7 +6,7 @@
 
 {I write this program is beacuse I always forgot what I need to buy while shopping, so I make this program so I can send the text file to my phone or print it out.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bP1JlseLHNw)
 
 # Development Environment
 

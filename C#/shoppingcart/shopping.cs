@@ -67,15 +67,20 @@ class Program
         Console.WriteLine("Item added to cart.");
     }
 
-    // Function to view cart
-    static void ViewCart()
+// Function to view cart and display total price
+static void ViewCart()
+{
+    Console.WriteLine("Shopping Cart:");
+    double totalPrice = 0;
+
+    foreach (var item in shoppingCart)
     {
-        Console.WriteLine("Shopping Cart:");
-        foreach (var item in shoppingCart)
-        {
-            Console.WriteLine($"{item.Name}: ${item.Price}");
-        }
+        Console.WriteLine($"{item.Name}: ${item.Price}");
+        totalPrice += item.Price;
     }
+
+    Console.WriteLine($"Total Price: ${totalPrice}");
+}
 
     // Function to save cart to file
     static void SaveCartToFile()
