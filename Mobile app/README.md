@@ -1,6 +1,6 @@
 # Overview
 
-{This project is the practice C# software for me to learn more languages.}
+{This project is the practice mobile app for me to learn more languages.}
 
 {This program is a shopping list program that user can input what that want to buy and can save the shoping list as a text file.}
 
